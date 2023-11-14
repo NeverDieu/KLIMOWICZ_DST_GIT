@@ -58,39 +58,39 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-Proto3GD/Library/
-Proto3GD/Logs/
-Proto3GD/Temp/
+KLIMOWICZ_DST_GIT/Library/
+KLIMOWICZ_DST_GIT/Logs/
+KLIMOWICZ_DST_GIT/Temp/
 
 ### FMOD Unity Integration ###
 # Never ignore DLLs in the FMOD subfolder, so make sure that the FMOD-folder is in the correct path.
-!Proto3GD/[Aa]ssets/Plugins/FMOD/**/*
+!KLIMOWICZ_DST_GIT/[Aa]ssets/Plugins/FMOD/**/*
 
 # Ignore the Cache folder since it is updated locally.
-Proto3GD/[Aa]ssets/Plugins/FMOD/Cache/*
+KLIMOWICZ_DST_GIT/[Aa]ssets/Plugins/FMOD/Cache/*
 
 # Ignore bank files in the StreamingAssets folder.
-Proto3GD/[Aa]ssets/StreamingAssets/**/*.bank
-Proto3GD/[Aa]ssets/StreamingAssets/**/*.bank.meta
+KLIMOWICZ_DST_GIT/[Aa]ssets/StreamingAssets/**/*.bank
+KLIMOWICZ_DST_GIT/[Aa]ssets/StreamingAssets/**/*.bank.meta
 
 # Don't ignore images and gizmos used by FMOD in the Unity Editor
-!Proto3GD/[Aa}ssets/Gizmos/FMOD/*
-!Proto3GD/[Aa}ssets/Editor Default Resources/FMOD/*
+!KLIMOWICZ_DST_GIT/[Aa}ssets/Gizmos/FMOD/*
+!KLIMOWICZ_DST_GIT/[Aa}ssets/Editor Default Resources/FMOD/*
 
 # Ignore bank files in the StreamingAssets folder.
-Proto3GD/[Aa]ssets/StreamingAssets/**/*.bank
-Proto3GD/[Aa]ssets/StreamingAssets/**/*.bank.meta
+KLIMOWICZ_DST_GIT/[Aa]ssets/StreamingAssets/**/*.bank
+KLIMOWICZ_DST_GIT/[Aa]ssets/StreamingAssets/**/*.bank.meta
 
 # Ignore the Cache-file since it is updated locally either way
-Proto3GD/[Aa]ssets/**/FMODStudioCache.asset
-Proto3GD/[Aa]ssets/**/FMODStudioCache.asset.meta
-Proto3GD/[Aa]ssets/Plugins/FMOD/Cache.meta
-Proto3GD/[Aa]ssets/Plugins/FMOD/Cache/Editor.meta
+KLIMOWICZ_DST_GIT/[Aa]ssets/**/FMODStudioCache.asset
+KLIMOWICZ_DST_GIT/[Aa]ssets/**/FMODStudioCache.asset.meta
+KLIMOWICZ_DST_GIT/[Aa]ssets/Plugins/FMOD/Cache.meta
+KLIMOWICZ_DST_GIT/[Aa]ssets/Plugins/FMOD/Cache/Editor.meta
 
 # Log-files
 fmod.log
 fmod_editor.log
 
 # FMOD 1.10.x (Legacy)
-Proto3GD/Assets/FMODAssets/*
-Proto3GD/Assets/FMODStudioCache.meta
+KLIMOWICZ_DST_GIT/Assets/FMODAssets/*
+KLIMOWICZ_DST_GIT/Assets/FMODStudioCache.meta
